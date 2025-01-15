@@ -1,0 +1,79 @@
+<classes>
+    <class>
+        <class_id>1</class_id>
+        <class_name>Yoga</class_name>
+        <category>Fitness</category> <!-- 新增的 category 屬性 -->
+        <weekday>Monday</weekday>
+        <class_date>2025-01-02</class_date>
+        <time>18:00</time>
+        <duration>60</duration>
+        <level>Beginner</level>
+        <trainer>Alice</trainer>
+    </class>
+    <class>
+        <class_id>2</class_id>
+        <class_name>Pilates</class_name>
+        <category>Fitness</category> <!-- 新增的 category 屬性 -->
+        <weekday>Tuesday</weekday>
+        <class_date>2025-01-03</class_date>
+        <time>17:30</time>
+        <duration>45</duration>
+        <level>Intermediate</level>
+        <trainer>Bob</trainer>
+    </class>
+    <class>
+        <class_id>3</class_id>
+        <class_name>Abs</class_name>
+        <category>Fitness</category> <!-- 新增的 category 屬性 -->
+        <weekday>Wednesday</weekday>
+        <class_date>2025-01-04</class_date>
+        <time>16:45</time>
+        <duration>30</duration>
+        <level>Beginner</level>
+        <trainer>Charlie</trainer>
+    </class>
+    <class>
+        <class_id>4</class_id>
+        <class_name>HIIT</class_name>
+        <category>Fitness</category> <!-- 新增的 category 屬性 -->
+        <weekday>Thursday</weekday>
+        <class_date>2025-01-01</class_date>
+        <time>19:15</time>
+        <duration>45</duration>
+        <level>Advanced</level>
+        <trainer>Dana</trainer>
+    </class>
+    <class>
+        <class_id>5</class_id>
+        <class_name>Indoor Cycling</class_name>
+        <category>Fitness</category> <!-- 新增的 category 屬性 -->
+        <weekday>Friday</weekday>
+        <class_date>2025-01-15</class_date>
+        <time>18:30</time>
+        <duration>60</duration>
+        <level>Intermediate</level>
+        <trainer>Eve</trainer>
+    </class>
+    <class>
+        <class_id>6</class_id>
+        <class_name>Boxing</class_name>
+        <category>Combat</category> <!-- 新增的 category 屬性 -->
+        <weekday>Saturday</weekday>
+        <class_date>2025-01-18</class_date>
+        <time>10:00</time>
+        <duration>75</duration>
+        <level>Advanced</level>
+        <trainer>Frank</trainer>
+    </class>
+    <class>
+        <class_id>7</class_id>
+        <class_name>Zumba</class_name>
+        <category>Dance</category> <!-- 新增的 category 屬性 -->
+        <weekday>Sunday</weekday>
+        <class_date>2025-01-13</class_date>
+        <time>16:00</time>
+        <duration>45</duration>
+        <level>Beginner</level>
+        <trainer>Grace</trainer>
+    </class>
+</classes>
